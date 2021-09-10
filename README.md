@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m learning about web development 👀
+🔭 I’m currently learning about web development 👀
 
 
