@@ -8,3 +8,7 @@ I have civil engineering degree and I’m currently learning about front-end web
 
 
 
+
+
+*“Self-education is, I firmly believe, the only kind of education there is.” 
+-Asimov*
