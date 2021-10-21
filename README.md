@@ -2,7 +2,7 @@
 
 I'm Alex.🤓✨
 
-I consider myself a curious, creative and autodidact person.�
+I consider myself a curious, creative and autodidact person.🌱🧐
 
 I have a civil engineering degree and I’m currently learning about front-end web development. 👀👩‍💻
 
