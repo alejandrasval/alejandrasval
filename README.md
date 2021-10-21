@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ale.🤓
+I'm Alex.🤓
 
 I consider myself a curious, creative and autodidact person.🔭 
 
