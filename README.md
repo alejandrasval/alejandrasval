@@ -4,4 +4,4 @@ I'm Ale.🤓✨
 
 In a constant state of learning.🌱🧐
 
-Currently learning about front-end web development. 👀👩‍💻
+Currently learning about front-end development. 👀👩‍💻
