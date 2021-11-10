@@ -2,6 +2,6 @@
 
 I'm Ale.🤓✨
 
-I consider myself a curious, creative and autodidact person.🌱🧐
+In a constant state of learning.🌱🧐
 
-I’m currently learning about front-end web development. 👀👩‍💻
+Currently learning about front-end web development. 👀👩‍💻
