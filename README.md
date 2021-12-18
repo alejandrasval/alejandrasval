@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Ale</h2>
 
-<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/r_50/v1639765358/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.png" width="230">
+<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1639801802/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.jpg" width="230">
 
 
 <h3>💻 About me 👩‍💻</h3>
@@ -22,8 +22,6 @@
 <hr>
 
 <h3>📧Connect with me</h3>
-
-<br>
 
 <p align="center">
 
