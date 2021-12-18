@@ -1,7 +1,6 @@
 ### Hi there 👋<h2> I'm Ale</h2>
 
-<img align='right' src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="230">
-<a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p>
+<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1639765358/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.jpg" width="230">
 
 
 <h3>💻 About me 👩‍💻</h3>
