@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Ale</h2>
 
-<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1639765358/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.jpg" width="230">
+<iframe align='right' src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 <h3> •💻 About me 👩‍💻 </h3>
 
@@ -33,13 +33,13 @@
 
 <p align="center">
 
-<a href="https://alejandrasval.github.io/personalportfolio/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://alejandrasval.github.io/personalportfolio/"><img alt="Website"></a>
 
-<a href="https://www.linkedin.com/in/alejandrasval/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alejandrasval/"><img alt="LinkedIn"></a>
 
-<a href="https://instagram.com/alejandrasval"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://instagram.com/alejandrasval"><img alt="Instagram"></a>
 
-<a href="mailto:ing.alejandrasanchezv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ing.alejandrasanchezv@gmail.com"><img alt="Email"></a>
 
 </p>
 
