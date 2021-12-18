@@ -1,11 +1,11 @@
-### Hi there 👋<h2> I'm Ale</h2>
+### Hi there 👋<h2> I'm Alejandra</h2>
 
-<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1639801802/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.jpg" width="230">
+<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1639761590/Mind%20Balance%20App/19acb409-7bbe-4b52-a416-115584007fb1_xnyn6o.jpg" width="230">
 
 
 <h3>💻 About me 👩‍💻</h3>
 
-- 🤔 &nbsp; Curious and autodidact.
+- 🤔 &nbsp; Creative, curious and autodidact.
 
 - 🎓 &nbsp; Civil engineer, currently dedicated full-time to web development.
 
