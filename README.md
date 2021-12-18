@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Ale</h2>
 
-<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1639765358/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.jpg" width="230">
+<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/r_50/v1639765358/Mind%20Balance%20App/d1752567-adbf-4761-81f7-13ef4a7cb470_jz8zbd.png" width="230">
 
 
 <h3>💻 About me 👩‍💻</h3>
@@ -27,13 +27,13 @@
 
 <p align="center">
 
-<a href="https://alejandrasval.github.io/personalportfolio/"></a>
+<a href="https://alejandrasval.github.io/personalportfolio/">Portfolio</a>
 
-<a href="https://www.linkedin.com/in/alejandrasval/"></a>
+<a href="https://www.linkedin.com/in/alejandrasval/">LinkedIn</a>
 
-<a href="https://instagram.com/alejandrasval"></a>
+<a href="https://instagram.com/alejandrasval">Instagram</a>
 
-<a href="mailto:ing.alejandrasanchezv@gmail.com"></a>
+<a href="mailto:ing.alejandrasanchezv@gmail.com">Email</a>
 
 </p>
 
