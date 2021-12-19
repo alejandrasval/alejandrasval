@@ -17,7 +17,7 @@
 
 <h3>🛠 Tech stack</h3>
 
-- 🌐 &nbsp; HTML5 | CSS3 | Vanilla JavaScript | React.js | Bootstrap | Tailwind | Firebase | Adobe Illustrator | Git
+- 🌐 &nbsp; HTML5 | CSS3 | Vanilla JavaScript | React.js | Bootstrap | Tailwind | Firebase | Git
 
 <hr>
 
