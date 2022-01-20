@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Alejandra</h2>
 
-<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1642689850/cat_zahtsu.gif" width="230">
+<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1642689850/cat_zahtsu.gif" width="450">
 
 
 <h3>💻 About me 👩‍💻</h3>
