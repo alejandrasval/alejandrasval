@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Alejandra</h2>
 
-<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1639761590/Mind%20Balance%20App/19acb409-7bbe-4b52-a416-115584007fb1_xnyn6o.jpg" width="230">
+<img align='right' src="https://res.cloudinary.com/dtkdsolsz/image/upload/v1642689850/cat_zahtsu.gif" width="230">
 
 
 <h3>💻 About me 👩‍💻</h3>
