@@ -25,13 +25,13 @@
 
 <p align="center">
 
-<a href="https://alejandrasval.github.io/personalportfolio/" target="_blank" rel="noreferrer>Portfolio</a>
+<a href="https://alejandrasval.github.io/personalportfolio/" target="_blank" rel="noreferrer">Portfolio</a>
 
-<a href="https://www.linkedin.com/in/alejandrasval/" target="_blank" rel="noreferrer>LinkedIn</a>
+<a href="https://www.linkedin.com/in/alejandrasval/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 <a href="https://instagram.com/alejandrasval" target="_blank" rel="noreferrer">Instagram</a>
 
-<a href="mailto:ing.alejandrasanchezv@gmail.com" target="_blank" rel="noreferrer>Email</a>
+<a href="mailto:ing.alejandrasanchezv@gmail.com" target="_blank" rel="noreferrer">Email</a>
 
 </p>
 
